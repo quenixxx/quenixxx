@@ -1,5 +1,5 @@
 <div align="center">
-<img src="![img](./quenixxx.png)" align="center" style="width: 100%" />
+  <img src="./quenixxx.png" style="width: 100%;" />
 </div>  
   
 
